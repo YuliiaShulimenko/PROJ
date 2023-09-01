@@ -1,0 +1,15 @@
+.header {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(45deg , rgba(175, 247, 165, 0.778), rgba(2, 85, 12, 0.889));
+    justify-content: space-between;
+  
+  }
+  
+  .logo{
+    margin-left: 15px;
+    align-items: center;
+    display: flex;
+  }
+  

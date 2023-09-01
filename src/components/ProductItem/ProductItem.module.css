@@ -1,0 +1,11 @@
+.priceWithDisc{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.prodItem{
+width: 318px;
+height: 366px;
+border: 1px solid black;
+}
